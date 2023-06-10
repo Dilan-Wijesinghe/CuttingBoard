@@ -1,5 +1,13 @@
 # CuttingBoard
-The Cutting Board, A Musical Instrument
+The Cutting Board is a musical instrument inspired by the ubiquitous kitchen utensil.
+I was inspired by the idea that every song has a recipe one can follow to recreate it. 
+Several analogies can be made between food-terms and musical-terms, like when something is 
+wet vs. dry, hot vs. cold, and often in funk the term "stank" gets thrown around. 
+
+### This Repository
+In this repo you will find the accompanying code, both the MAX MSP patches, developed in MAX 8, 
+as well as the Arduino code. The microcontroller I used was Unexpected Maker's Pro S3. Below is a guide
+to get it set up.
 
 
 ### Unexpected Maker PRO S3 Setup Guide
